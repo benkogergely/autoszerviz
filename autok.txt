@@ -1,5 +1,5 @@
-Jank_Peter	06705051299	MDF-455	Opel_Corsa	2020.12.31
-Foszto_Abel	Sch_kollegium	SQL-404	BMW_I8	2020.12.10
-Szabo_Armand	Mako	PHP-666	Lada_Niva	2019.6.6
-Perity_Lajos	Hunyadi_utca	SIG-888	Jeep_Wrangler	2021.3.4
-Benko_Gergely	Kalocsa_Ibolya_12	ULR-NH3	Opel_Corsa	2021.1.5
+Kocsis_Peter	06707051299	MDF-455	Opel_Corsa	2020.12.31
+Autos_Abel	Sch_kollegium	SQL-404	BMW_I8	2020.12.10
+Racse_Armand	Pecs	PHP-666	Lada_Niva	2019.6.6
+Deisel_Lajos	Hunyadi_utca	SIG-888	Jeep_Wrangler	2021.3.4
+Kuplung_Gergely	Kalocsa_Ibolya_12	ULR-666	Opel_Astra	2021.1.5
